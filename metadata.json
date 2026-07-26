@@ -1,0 +1,6 @@
+{
+  "name": "MotoNexus Toolkit",
+  "description": "A modular desktop interface for Android device diagnostics, system variable inspection, and hardware audit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
